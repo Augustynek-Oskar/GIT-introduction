@@ -1,4 +1,2 @@
 # GIT-introduction
-changes x1
-changes x2
-changes x3
+My first GIT repository commands practised 
